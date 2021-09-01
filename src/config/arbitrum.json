@@ -3,7 +3,7 @@
   "chainName": "Arbitrum One",
   "nativeCurrency": {
     "name": "Ethereum",
-    "symbol": "ETH",
+    "symbol": "AETH",
     "decimals": 18
   },
   "rpcUrl": "https://arb1.arbitrum.io/rpc",
