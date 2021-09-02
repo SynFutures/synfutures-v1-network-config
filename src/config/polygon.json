@@ -23,5 +23,5 @@
       "oracleController": "0x381a5b89D0B48AB592d0e0C6e9CFaefcf0DF9e26"
     }
   },
-  "subgraphUrl": "https://api.studio.thegraph.com/query/4404/synfutures-v1-polygon/v0.0.6"
+  "subgraphUrl": "https://api.studio.thegraph.com/query/4400/polygon/v_1.1.202108281540"
 }
